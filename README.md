@@ -74,3 +74,9 @@ Digital signing information for the current installer is being checked and will 
 ## License
 
 AdminPRO is licensed under the MIT License.
+
+## Digital Signature
+
+The current installer is not digitally signed.
+
+Users may see a Windows security warning when starting the installer. The installer can be verified using the SHA256 hash published in the GitHub release.
